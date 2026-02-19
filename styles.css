@@ -24,7 +24,7 @@
 
     /* ── LAYOUT ── */
     .wrap {
-      max-width: 680px;
+      max-width: 1000px;
       margin: 0 auto;
       padding: 0 2rem;
     }
@@ -88,7 +88,7 @@
     .hero-bio {
       font-size: 1.05rem;
       color: var(--mid);
-      max-width: 520px;
+      max-width: 720px;
       line-height: 1.8;
       margin-bottom: 2.5rem;
     }
