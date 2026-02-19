@@ -16,7 +16,7 @@ This project is a software developer portfolio website created for a course assi
 - Contact information
 
 ## Live Site
-https://yourusername.github.io
+https://Rohit-Sharma390.github.io
 
 ## Author
 Rohit Sharma  
